@@ -1,0 +1,402 @@
+#EXTINF:-1 tvg-id="TVLux.be" tvg-name="LX: TV LUX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d0/TV_Lux_logo_2017.png" group-title="|EU| LUXEMBOURG",LX: TV LUX HD
+http://comag.rip:8000/52008486655705/83000054541964/89181
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="|DE| DAS ERSTE HEVC" tvg-logo="http://178.33.72.149/logo/germany/das%20erste%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| DAS ERSTE HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145288
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="|DE| ZDF HEVC" tvg-logo="http://178.33.72.149/logo/germany/zdf%20hrvc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| ZDF HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145287
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="|DE| RTL HEVC" tvg-logo="http://178.33.72.149/logo/germany/rtl%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| RTL HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145286
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="|DE| RTL UHD 4K" tvg-logo="http://178.33.72.149/logo/germany/rtl%204k.png" group-title="|EU| HEVC DEUTSHLAND",|DE| RTL UHD 4K
+http://comag.rip:8000/52008486655705/83000054541964/145285
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="|DE| RTL ZWEI HEVC" tvg-logo="http://178.33.72.149/logo/germany/rtl%20zwei%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| RTL ZWEI HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145284
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="|DE| VOX HEVC" tvg-logo="http://178.33.72.149/logo/germany/vox%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| VOX HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145283
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="|DE| N24 HEVC" tvg-logo="http://178.33.72.149/logo/germany/n24%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| N24 HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145282
+#EXTINF:-1 tvg-id="Welt.de" tvg-name="|DE| WELT HEVC" tvg-logo="http://178.33.72.149/logo/germany/welt%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| WELT HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145281
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="|DE| SAT 1 HEVC" tvg-logo="http://178.33.72.149/logo/germany/sat.1%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SAT 1 HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145280
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="|DE| SAT 1 GOLD HEVC" tvg-logo="http://178.33.72.149/logo/germany/sat%201%20gold%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SAT 1 GOLD HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145279
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="|DE| SPIEGEL GESCHICHTE HEVC" tvg-logo="" group-title="|EU| HEVC DEUTSHLAND",|DE| SPIEGEL GESCHICHTE HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145278
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="|DE| N-TV HEVC" tvg-logo="" group-title="|EU| HEVC DEUTSHLAND",|DE| N-TV HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145277
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="|DE| FOX HEVC" tvg-logo="http://178.33.72.149/logo/germany/fox%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| FOX HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145276
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="|DE| NITRO HEVC" tvg-logo="http://178.33.72.149/logo/germany/nitro%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| NITRO HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145275
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="|DE| PRO 7 MAXX HEVC" tvg-logo="http://178.33.72.149/logo/germany/pro7%20maxx%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| PRO 7 MAXX HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145274
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="|DE| PROSIEBEN HEVC" tvg-logo="http://178.33.72.149/logo/germany/prosieben%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| PROSIEBEN HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145273
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="|DE| SIXX HEVC" tvg-logo="http://178.33.72.149/logo/germany/sixx%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SIXX HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145272
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="|DE| 13TH STREET HEVC" tvg-logo="http://178.33.72.149/logo/germany/13th%20street%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| 13TH STREET HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145271
+#EXTINF:-1 tvg-id="History.de" tvg-name="|DE| HISTORY HEVC" tvg-logo="http://178.33.72.149/logo/germany/history%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| HISTORY HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145270
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="|DE| DISCOVERY HEVC" tvg-logo="http://178.33.72.149/logo/germany/discovery%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| DISCOVERY HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145269
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="|DE| DMAX HEVC" tvg-logo="http://178.33.72.149/logo/germany/dmax%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| DMAX HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145268
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="|DE| KABEL EINS HEVC" tvg-logo="http://178.33.72.149/logo/germany/kabel%20eins%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| KABEL EINS HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145267
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="|DE| KIKA HEVC" tvg-logo="http://178.33.72.149/logo/germany/kika%20tv%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| KIKA HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145266
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="|DE| N24 DOKU HEVC" tvg-logo="http://178.33.72.149/logo/germany/n24%20doku%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| N24 DOKU HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145265
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="|DE| NAT GEO HEVC" tvg-logo="http://178.33.72.149/logo/germany/nat%20geo%20fr%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| NAT GEO HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145264
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="|DE| NAT GEO WILD HEVC" tvg-logo="http://178.33.72.149/logo/germany/nat%20geo%20wild%20fr%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| NAT GEO WILD HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145263
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="|DE| SKY ATLANTIC HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20atlantic%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY ATLANTIC HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145262
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY ONE HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20one%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY ONE HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145261
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="|DE| SKY SPORT NEWS HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20news%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY SPORT NEWS HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145260
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="|DE| SKY SPORT 1 HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%201%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY SPORT 1 HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145259
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="|DE| SKY SPORT 2 HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%202%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY SPORT 2 HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145258
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT AUSTRIA 1 HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%201%20australia%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY SPORT AUSTRIA 1 HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145257
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="|DE| SKY SPORT BUNDESLIGA 1 HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20sports%20bundesliga%201%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY SPORT BUNDESLIGA 1 HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145256
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="|DE| SKY SPORT BUNDESLIGA 2 HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20sports%20bundesliga%202%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY SPORT BUNDESLIGA 2 HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145255
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="|DE| SPORT 1 HEVC" tvg-logo="http://178.33.72.149/logo/germany/sport%201%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SPORT 1 HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145254
+#EXTINF:-1 tvg-id="" tvg-name="|DE| DAZN 1 BAR HEVC" tvg-logo="http://178.33.72.149/logo/germany/dazn%201%20bar%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| DAZN 1 BAR HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145253
+#EXTINF:-1 tvg-id="DAZN.de" tvg-name="|DE| DAZN 2 BAR HEVC" tvg-logo="" group-title="|EU| HEVC DEUTSHLAND",|DE| DAZN 2 BAR HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145252
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="|DE| SKY KRIMI HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20krimi%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY KRIMI HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145251
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY CINEMA  THRILLER HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20thriller%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY CINEMA  THRILLER HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145250
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="|DE| SKY CINEMA ACTION HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20action%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY CINEMA ACTION HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145249
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY CINEMA BEST OF HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20best%20of%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY CINEMA BEST OF HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145248
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY CINEMA CLASSICS HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20classic%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY CINEMA CLASSICS HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145247
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="|DE| SKY CINEMA FAMILY HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20Familly%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY CINEMA FAMILY HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145246
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY CINEMA FUN HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20fun%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY CINEMA FUN HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145245
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="|DE| SKY CINEMA PREMIEREN 24 HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20premiere24%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY CINEMA PREMIEREN 24 HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145244
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="|DE| SKY CINEMA PREMIEREN HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20premiere%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY CINEMA PREMIEREN HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145243
+#EXTINF:-1 tvg-id="SkyCinemaSpezial.de" tvg-name="|DE| SKY CINEMA SPECIAL HEVC" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20special%20%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SKY CINEMA SPECIAL HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145242
+#EXTINF:-1 tvg-id="Syfy.de" tvg-name="|DE| SYFY HEVC" tvg-logo="http://178.33.72.149/logo/germany/syfy%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| SYFY HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145241
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="|DE| TLC HEVC" tvg-logo="http://178.33.72.149/logo/germany/tlc%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| TLC HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145240
+#EXTINF:-1 tvg-id="TNTComedy.de" tvg-name="|DE| TNT COMEDY HEVC" tvg-logo="http://178.33.72.149/logo/germany/tnt%20comedy%20club%20central%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| TNT COMEDY HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145239
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="|DE| TNT FILM HEVC" tvg-logo="http://178.33.72.149/logo/germany/tnt%20film%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| TNT FILM HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145238
+#EXTINF:-1 tvg-id="EEntertainment.uk" tvg-name="|DE| E! HEVC" tvg-logo="http://178.33.72.149/logo/germany/e!%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| E! HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145237
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="|DE| TNT SERIE HEVC" tvg-logo="http://178.33.72.149/logo/germany/tnt%20series%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| TNT SERIE HEVC
+http://comag.rip:8000/52008486655705/83000054541964/145236
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE:|VIP| Das Erste HD DE" tvg-logo="http://178.33.72.149/logo/germany/das%20erste%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Das Erste HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76168
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="DE: DAS ERSTE HD" tvg-logo="http://178.33.72.149/logo/germany/das%20erste%20hd.png" group-title="|EU| DEUTSHLAND",DE: DAS ERSTE HD
+http://comag.rip:8000/52008486655705/83000054541964/79223
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="DE:|VIP| arte HD DE" tvg-logo="http://178.33.72.149/logo/germany/arte%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| arte HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76161
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="VIP:DE- ARTE HD" tvg-logo="http://178.33.72.149/logo/germany/arte%20hd.png" group-title="|EU| DEUTSHLAND",VIP:DE- ARTE HD
+http://comag.rip:8000/52008486655705/83000054541964/79191
+#EXTINF:-1 tvg-id="3sat.at" tvg-name="DE:|VIP| 3sat HD DE" tvg-logo="http://178.33.72.149/logo/germany/3%20sat%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| 3sat HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76158
+#EXTINF:-1 tvg-id="3sat.at" tvg-name="DE: 3SAT HD" tvg-logo="http://178.33.72.149/logo/germany/3%20sat%20hd.png" group-title="|EU| DEUTSHLAND",DE: 3SAT HD
+http://comag.rip:8000/52008486655705/83000054541964/79214
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE:|VIP| ZDF HD DE" tvg-logo="http://178.33.72.149/logo/germany/zdf%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| ZDF HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76249
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="VIP:DE- RTL HD" tvg-logo="http://178.33.72.149/logo/germany/rtl%20hd.png" group-title="|EU| DEUTSHLAND",VIP:DE- RTL HD
+http://comag.rip:8000/52008486655705/83000054541964/79201
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE:|VIP| RTL HD DE" tvg-logo="http://178.33.72.149/logo/germany/rtl%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| RTL HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76201
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="DE:|VIP| RTL 2 HD DE" tvg-logo="http://178.33.72.149/logo/germany/rtl%20zwei%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| RTL 2 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76199
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="DE:|VIP| RTL Nitro HD DE" tvg-logo="http://178.33.72.149/logo/germany/rtl%20nitro%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| RTL Nitro HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76202
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="VIP:DE- RTL NITRO FULL HD" tvg-logo="http://178.33.72.149/logo/germany/rtl%20nitro%20fullhd.png" group-title="|EU| DEUTSHLAND",VIP:DE- RTL NITRO FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79202
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE:|VIP| SIXX HD DE" tvg-logo="http://178.33.72.149/logo/germany/sixx%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| SIXX HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76204
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="DE:|VIP| Sat 1 HD DE" tvg-logo="http://178.33.72.149/logo/germany/sat.1%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sat 1 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76203
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="DE:|VIP| VOX HD DE" tvg-logo="http://178.33.72.149/logo/germany/vox%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| VOX HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76246
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VIP:DE- VOX FULL HD" tvg-logo="http://178.33.72.149/logo/germany/vox%20fullhd.png" group-title="|EU| DEUTSHLAND",VIP:DE- VOX FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79212
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="DE:|VIP| Kabel Eins HD DE" tvg-logo="http://178.33.72.149/logo/germany/kabel%20eins%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Kabel Eins HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76184
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="DE: ANIXE HD" tvg-logo="http://178.33.72.149/logo/germany/anixe%20hd.png" group-title="|EU| DEUTSHLAND",DE: ANIXE HD
+http://comag.rip:8000/52008486655705/83000054541964/79219
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="DE:|VIP| Anixe HD DE" tvg-logo="http://178.33.72.149/logo/germany/anixe%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Anixe HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76160
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="VIP:DE- PRO 7 HD" tvg-logo="http://178.33.72.149/logo/germany/prosieben%20hd.png" group-title="|EU| DEUTSHLAND",VIP:DE- PRO 7 HD
+http://comag.rip:8000/52008486655705/83000054541964/79199
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="VIP:DE- RTL PASSION HD" tvg-logo="http://178.33.72.149/logo/germany/rtl%20passion%20hd.png" group-title="|EU| DEUTSHLAND",VIP:DE- RTL PASSION HD
+http://comag.rip:8000/52008486655705/83000054541964/79203
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="DE:|VIP| RTL Crime DE" tvg-logo="http://178.33.72.149/logo/germany/rtl%20crim%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| RTL Crime DE
+http://comag.rip:8000/52008486655705/83000054541964/76200
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="VIP:DE- RTL CRIME FULL HD" tvg-logo="http://178.33.72.149/logo/germany/rtl%20crim%20fullhd.png" group-title="|EU| DEUTSHLAND",VIP:DE- RTL CRIME FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79200
+#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="DE: E Entertainment HD" tvg-logo="http://178.33.72.149/logo/germany/e!%20hd.png" group-title="|EU| DEUTSHLAND",DE: E Entertainment HD
+http://comag.rip:8000/52008486655705/83000054541964/79229
+#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="DE:|VIP| E! Entertainmment HD DE" tvg-logo="http://178.33.72.149/logo/germany/e!%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| E! Entertainmment HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76176
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DE: DELUXE MUSIC HD" tvg-logo="http://178.33.72.149/logo/germany/delux%20music%20hd.png" group-title="|EU| DEUTSHLAND",DE: DELUXE MUSIC HD
+http://comag.rip:8000/52008486655705/83000054541964/79226
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="VIP:DE- ARD HD" tvg-logo="http://178.33.72.149/logo/germany/ARD%20hd.png" group-title="|EU| DEUTSHLAND",VIP:DE- ARD HD
+http://comag.rip:8000/52008486655705/83000054541964/79190
+#EXTINF:-1 tvg-id="N24Austria.at" tvg-name="VIP:DE- N24 NEWS FULL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUG1Bp4DrPNxcXP37KAv_zXFdTxeecs9zZCbCqtech7A03qJyj&s" group-title="|EU| DEUTSHLAND",VIP:DE- N24 NEWS FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79196
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="VIP:DE- ORF 1 HD" tvg-logo="http://178.33.72.149/logo/germany/orf%201%20hd.png" group-title="|EU| DEUTSHLAND",VIP:DE- ORF 1 HD
+http://comag.rip:8000/52008486655705/83000054541964/79197
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="VIP:DE- ORF 2 HD" tvg-logo="http://178.33.72.149/logo/germany/orf%202%20hd.png" group-title="|EU| DEUTSHLAND",VIP:DE- ORF 2 HD
+http://comag.rip:8000/52008486655705/83000054541964/79198
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="DE: A&E FHD" tvg-logo="http://178.33.72.149/logo/germany/a&e%20fhd.png" group-title="|EU| DEUTSHLAND",DE: A&E FHD
+http://comag.rip:8000/52008486655705/83000054541964/79215
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="DE: A&E HD" tvg-logo="http://178.33.72.149/logo/germany/a&e%20hd.png" group-title="|EU| DEUTSHLAND",DE: A&E HD
+http://comag.rip:8000/52008486655705/83000054541964/79216
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="DE: AXN FULL HD" tvg-logo="http://178.33.72.149/logo/germany/axn%20fullhd.png" group-title="|EU| DEUTSHLAND",DE: AXN FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79220
+#EXTINF:-1 tvg-id="Classica.de" tvg-name="DE: CLASSICA HD" tvg-logo="http://178.33.72.149/logo/germany/classica%20hd.png" group-title="|EU| DEUTSHLAND",DE: CLASSICA HD
+http://comag.rip:8000/52008486655705/83000054541964/79222
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="DE: DW TV" tvg-logo="http://178.33.72.149/logo/germany/dw%20hd.png" group-title="|EU| DEUTSHLAND",DE: DW TV
+http://comag.rip:8000/52008486655705/83000054541964/79228
+#EXTINF:-1 tvg-id="NULL" tvg-name="DE: KRONEHIT FULL HD" tvg-logo="http://178.33.72.149/logo/germany/kronehit%20tv%20FULLHD.png" group-title="|EU| DEUTSHLAND",DE: KRONEHIT FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79236
+#EXTINF:-1 tvg-id="AandE.ar" tvg-name="DE:|VIP| A&E DE" tvg-logo="http://178.33.72.149/logo/germany/a&e%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| A&E DE
+http://comag.rip:8000/52008486655705/83000054541964/76159
+#EXTINF:-1 tvg-id="ATV.at" tvg-name="DE:|VIP| ATV DE" tvg-logo="http://178.33.72.149/logo/germany/atv%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| ATV DE
+http://comag.rip:8000/52008486655705/83000054541964/76162
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="DE:|VIP| AXN HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="|EU| DEUTSHLAND",DE:|VIP| AXN HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76163
+#EXTINF:-1 tvg-id="Classica.de" tvg-name="DE:|VIP| Classica DE" tvg-logo="http://178.33.72.149/logo/germany/classica%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Classica DE
+http://comag.rip:8000/52008486655705/83000054541964/76166
+#EXTINF:-1 tvg-id="HR.de" tvg-name="DE:|VIP| HR HD DE" tvg-logo="http://178.33.72.149/logo/germany/hr%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| HR HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76182
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="DE:|VIP| KIKA HD DE" tvg-logo="http://178.33.72.149/logo/germany/kika%20tv%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| KIKA HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76185
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="DE:|VIP| Kinowelt TV DE" tvg-logo="http://178.33.72.149/logo/germany/kinowelt%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Kinowelt TV DE
+http://comag.rip:8000/52008486655705/83000054541964/76186
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="DE:|VIP| Motorvision TV DE" tvg-logo="http://178.33.72.149/logo/germany/motorvision%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Motorvision TV DE
+http://comag.rip:8000/52008486655705/83000054541964/76187
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE:|VIP| N-TV HD DE" tvg-logo="http://178.33.72.149/logo/germany/ntv%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| N-TV HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76188
+#EXTINF:-1 tvg-id="N24Austria.at" tvg-name="DE:|VIP| N24 HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/N24_Logo_2016.png" group-title="|EU| DEUTSHLAND",DE:|VIP| N24 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76189
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="DE:|VIP| NDR HD DE" tvg-logo="http://178.33.72.149/logo/germany/ndr%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| NDR HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76192
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="DE:|VIP| ORF 1 HD DE" tvg-logo="http://178.33.72.149/logo/germany/orf%201%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| ORF 1 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76194
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="DE:|VIP| ORF 2 HD DE" tvg-logo="http://178.33.72.149/logo/germany/orf%202%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| ORF 2 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76195
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="DE:|VIP| ProSieben HD DE" tvg-logo="http://178.33.72.149/logo/germany/prosieben%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| ProSieben HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76196
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="DE:|VIP| ProSieben Maxx HD DE" tvg-logo="http://www.topstb.info/logo/GERMANY/PROSIEBENMAXXHD.png" group-title="|EU| DEUTSHLAND",DE:|VIP| ProSieben Maxx HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76197
+#EXTINF:-1 tvg-id="Romance.de" tvg-name="DE:|VIP| Romance TV DE" tvg-logo="http://178.33.72.149/logo/germany/romance%20tv%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Romance TV DE
+http://comag.rip:8000/52008486655705/83000054541964/76198
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="DE:|VIP| Spiegel Geschichte HD DE" tvg-logo="http://178.33.72.149/logo/germany/spiegel%20geschichte%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Spiegel Geschichte HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76237
+#EXTINF:-1 tvg-id="NULL" tvg-name="DE:|VIP| VIVA Comedy DE" tvg-logo="http://178.33.72.149/logo/germany/viva%20comedy%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| VIVA Comedy DE
+http://comag.rip:8000/52008486655705/83000054541964/76245
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="DE:|VIP| WDR HD Aachen DE" tvg-logo="http://178.33.72.149/logo/germany/wdr%20aachen%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| WDR HD Aachen DE
+http://comag.rip:8000/52008486655705/83000054541964/76247
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="DE:|VIP| Sky Atlantic HD DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20atlantic%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Atlantic HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76206
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="VIP:DE- SKY ATLANTIC FULL HD" tvg-logo="http://178.33.72.149/logo/germany/sky%20atlantic%20fullhd.png" group-title="|EU| DEUTSHLAND",VIP:DE- SKY ATLANTIC FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79204
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="DE:|VIP| Sky Cinema HD DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Cinema HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76212
+#EXTINF:-1 tvg-id="SkyHits.de" tvg-name="DE:|VIP| Sky CINEMA Hits HD DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20hits%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky CINEMA Hits HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76213
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="DE:|VIP| Sky Cinema Action HD DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20action%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Cinema Action HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76207
+#EXTINF:-1 tvg-id="SkyFamily.de" tvg-name="DE:|VIP| Sky Cinema Family HD DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20Familly%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Cinema Family HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76211
+#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="VIP:DE- SKY COMEDY FULL HD" tvg-logo="http://178.33.72.149/logo/germany/sky%20comedy%20fullhd.png" group-title="|EU| DEUTSHLAND",VIP:DE- SKY COMEDY FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79205
+#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="DE:|VIP| Sky Cinema Comedy DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20comedy%20%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Cinema Comedy DE
+http://comag.rip:8000/52008486655705/83000054541964/76208
+#EXTINF:-1 tvg-id="SkyEmotion.de" tvg-name="DE:|VIP| Sky Cinema Emotion DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20emotion%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Cinema Emotion DE
+http://comag.rip:8000/52008486655705/83000054541964/76210
+#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="DE:|VIP| Sky Cinema Comic Helden DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20%20comic%20helden%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Cinema Comic Helden DE
+http://comag.rip:8000/52008486655705/83000054541964/76209
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="DE:|VIP| Sky Krimi DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20krimi%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Krimi DE
+http://comag.rip:8000/52008486655705/83000054541964/76214
+#EXTINF:-1 tvg-id="NULL" tvg-name="DE:|VIP| Sky Cinema Nostalgie DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20cinema%20nostalgie%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Cinema Nostalgie DE
+http://comag.rip:8000/52008486655705/83000054541964/76236
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE:|VIP| 13th Street HD DE" tvg-logo="http://178.33.72.149/logo/germany/13th%20street%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| 13th Street HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76157
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="VIP:DE- 13TH STREET FULL HD" tvg-logo="http://178.33.72.149/logo/germany/13th%20street%20fullhd.png" group-title="|EU| DEUTSHLAND",VIP:DE- 13TH STREET FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79189
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE: 13TH STREET FULL HD" tvg-logo="http://178.33.72.149/logo/germany/13th%20street%20fullhd.png" group-title="|EU| DEUTSHLAND",DE: 13TH STREET FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79213
+#EXTINF:-1 tvg-id="TNTComedy.de" tvg-name="VIP:DE- TNT COMEDY FULL HD" tvg-logo="http://178.33.72.149/logo/germany/tnt%20comedy%20club%20central%20fullhd.png" group-title="|EU| DEUTSHLAND",VIP:DE- TNT COMEDY FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79209
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="VIP:DE- TNT FILM FULL HD" tvg-logo="http://178.33.72.149/logo/germany/tnt%20film%20fullhd.png" group-title="|EU| DEUTSHLAND",VIP:DE- TNT FILM FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79210
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="VIP:DE- TNT SERIE FULL HD" tvg-logo="http://178.33.72.149/logo/germany/tnt%20series%20fullhd.png" group-title="|EU| DEUTSHLAND",VIP:DE- TNT SERIE FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79211
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="DE: FOX FHD" tvg-logo="http://178.33.72.149/logo/germany/fox%20fullhd.png" group-title="|EU| DEUTSHLAND",DE: FOX FHD
+http://comag.rip:8000/52008486655705/83000054541964/79235
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="DE:|VIP| FOX HD DE" tvg-logo="http://178.33.72.149/logo/germany/focx%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| FOX HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76180
+#EXTINF:-1 tvg-id="Syfy.de" tvg-name="DE:|VIP| Syfy HD DE" tvg-logo="http://178.33.72.149/logo/germany/syfy%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Syfy HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76240
+#EXTINF:-1 tvg-id="TNTComedy.de" tvg-name="DE:|VIP| TNT Comedy HD DE" tvg-logo="http://www.topstb.info/logo/GERMANY/TNTCOMEDYHD.png" group-title="|EU| DEUTSHLAND",DE:|VIP| TNT Comedy HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76241
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="DE:|VIP| TNT Film HD DE" tvg-logo="http://178.33.72.149/logo/germany/tnt%20film%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| TNT Film HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76242
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="DE:|VIP| TNT Serie HD DE" tvg-logo="http://178.33.72.149/logo/germany/tnt%20series%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| TNT Serie HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76243
+#EXTINF:-1 tvg-id="Universal.de" tvg-name="DE:|VIP| Universal TV HD DE" tvg-logo="http://178.33.72.149/logo/germany/universal%20tv%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Universal TV HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76244
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="DE:|VIP| Discovery HD DE" tvg-logo="http://178.33.72.149/logo/germany/discovery%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Discovery HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76171
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="VIP:DE- DISCOVERY CHANNEL FULL HD" tvg-logo="http://178.33.72.149/logo/germany/discovery%20fullhd.png" group-title="|EU| DEUTSHLAND",VIP:DE- DISCOVERY CHANNEL FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79192
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="DE: DISCOVERY CHANNEL FULL HD" tvg-logo="http://178.33.72.149/logo/germany/disney%20channel%20fullhd.png" group-title="|EU| DEUTSHLAND",DE: DISCOVERY CHANNEL FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79227
+#EXTINF:-1 tvg-id="History.de" tvg-name="DE:|VIP| History HD DE" tvg-logo="http://178.33.72.149/logo/germany/history%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| History HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76181
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP:DE- SKY HISTORY HD" tvg-logo="http://178.33.72.149/logo/germany/sky%20history%20hd.png" group-title="|EU| DEUTSHLAND",VIP:DE- SKY HISTORY HD
+http://comag.rip:8000/52008486655705/83000054541964/79206
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="DE: Animal Planet" tvg-logo="http://178.33.72.149/logo/germany/animal%20planet%20hd.png" group-title="|EU| DEUTSHLAND",DE: Animal Planet
+http://comag.rip:8000/52008486655705/83000054541964/79218
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="DE: ANIMAL PLANET FULL HD" tvg-logo="http://178.33.72.149/logo/germany/animal%20planet%20fullhd.png" group-title="|EU| DEUTSHLAND",DE: ANIMAL PLANET FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79217
+#EXTINF:-1 tvg-id="NULL" tvg-name="DE:|VIP| Nat Geo Wild HD DE" tvg-logo="http://178.33.72.149/logo/germany/Nat%20Geo%20Wild%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Nat Geo Wild HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76190
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="DE:|VIP| National Geographic HD DE" tvg-logo="http://178.33.72.149/logo/germany/National%20Geographic%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| National Geographic HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76191
+#EXTINF:-1 tvg-id="Welt.de" tvg-name="DE:|VIP| WELT HD DE" tvg-logo="http://178.33.72.149/logo/germany/welt%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| WELT HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76248
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="VIP:DE- SPIEGEL GESCHICHTE HD" tvg-logo="http://178.33.72.149/logo/germany/spiegel%20geschichte%20hd.png" group-title="|EU| DEUTSHLAND",VIP:DE- SPIEGEL GESCHICHTE HD
+http://comag.rip:8000/52008486655705/83000054541964/79207
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="DE:|VIP| Disney Channel HD DE" tvg-logo="http://178.33.72.149/logo/germany/disney%20channel%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Disney Channel HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76173
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="VIP:DE- DISNEY CHANNEL FULL HD" tvg-logo="http://178.33.72.149/logo/germany/disney%20channel%20fullhd.png" group-title="|EU| DEUTSHLAND",VIP:DE- DISNEY CHANNEL FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79193
+#EXTINF:-1 tvg-id="NULL" tvg-name="VIP:DE- DISNEY CINEMAGIC HD" tvg-logo="http://178.33.72.149/logo/germany/disney%20cinemagic%20hd.png" group-title="|EU| DEUTSHLAND",VIP:DE- DISNEY CINEMAGIC HD
+http://comag.rip:8000/52008486655705/83000054541964/79194
+#EXTINF:-1 tvg-id="NULL" tvg-name="DE:|VIP| Disney Cinemagic HD DE" tvg-logo="http://178.33.72.149/logo/germany/disney%20cinemagic%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Disney Cinemagic HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76172
+#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="DE:|VIP| Disney Jr DE" tvg-logo="http://178.33.72.149/logo/germany/disney%20junior%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Disney Jr DE
+http://comag.rip:8000/52008486655705/83000054541964/76174
+#EXTINF:-1 tvg-id="DisneyXD.de" tvg-name="DE:|VIP| Disney XD DE" tvg-logo="http://www.topstb.info/logo/GERMANY/DISNEYCHANNELHD.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Disney XD DE
+http://comag.rip:8000/52008486655705/83000054541964/76175
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="DE:|VIP| Nickelodeon HD DE" tvg-logo="http://178.33.72.149/logo/germany/nickelodeon%20%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Nickelodeon HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76193
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="DE:|VIP| Boomerang DE" tvg-logo="http://178.33.72.149/logo/germany/boomerang%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Boomerang DE
+http://comag.rip:8000/52008486655705/83000054541964/76164
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="DE:|VIP| Cartoon Network DE" tvg-logo="http://178.33.72.149/logo/germany/cartoon%20network%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Cartoon Network DE
+http://comag.rip:8000/52008486655705/83000054541964/76165
+#EXTINF:-1 tvg-id="Junior.de" tvg-name="DE:|VIP| Junior DE" tvg-logo="http://178.33.72.149/logo/germany/junior%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Junior DE
+http://comag.rip:8000/52008486655705/83000054541964/76183
+#EXTINF:-1 tvg-id="BabyTV.nl" tvg-name="DE: BABY TV" tvg-logo="http://178.33.72.149/logo/germany/baby%20tv%20hd.png" group-title="|EU| DEUTSHLAND",DE: BABY TV
+http://comag.rip:8000/52008486655705/83000054541964/79221
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="DE:|VIP| Super RTL HD DE" tvg-logo="http://178.33.72.149/logo/germany/super%20rtl%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Super RTL HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76239
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="VIP:DE- SUPER RTL HD" tvg-logo="http://178.33.72.149/logo/germany/super%20rtl%20hd.png" group-title="|EU| DEUTSHLAND",VIP:DE- SUPER RTL HD
+http://comag.rip:8000/52008486655705/83000054541964/79208
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="DE:|VIP| Comedy Central HD DE" tvg-logo="https://press.cc.com/image-download/956819" group-title="|EU| DEUTSHLAND",DE:|VIP| Comedy Central HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76167
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="DE:|VIP| Sky Sport News HD DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20news%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport News HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76235
+#EXTINF:-1 tvg-id="SkySportAustria.at" tvg-name="DE:|VIP| Sky Sport Austria HD DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20australia%20hevc.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport Austria HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76225
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="DE:|VIP| Sport 1 HD DE" tvg-logo="http://www.topstb.info/logo/GERMANY/SPORT1%2BHD.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sport 1 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76238
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE:|VIP| Sky Sport 1 HD DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%201%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport 1 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76215
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="DE:|VIP| Sky Sport 2 HD DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%202%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport 2 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76217
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE:|VIP| Sky Sport 3 HD DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%203%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport 3 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76218
+#EXTINF:-1 tvg-id="" tvg-name="DE:|VIP| Sky Sport 4 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%204%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport 4 DE
+http://comag.rip:8000/52008486655705/83000054541964/76219
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="DE:|VIP| Sky Sport 5 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%205%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport 5 DE
+http://comag.rip:8000/52008486655705/83000054541964/76220
+#EXTINF:-1 tvg-id="" tvg-name="DE:|VIP| Sky Sport 6 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%206%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport 6 DE
+http://comag.rip:8000/52008486655705/83000054541964/76221
+#EXTINF:-1 tvg-id="" tvg-name="DE:|VIP| Sky Sport 7 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%207%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport 7 DE
+http://comag.rip:8000/52008486655705/83000054541964/76222
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="DE:|VIP| Sky Sport 8 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20bundesliga%201%20fullhd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport 8 DE
+http://comag.rip:8000/52008486655705/83000054541964/76223
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="DE:|VIP| Sky Sport 9 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%209%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport 9 DE
+http://comag.rip:8000/52008486655705/83000054541964/76224
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="DE:|VIP| Sky Sport 10 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%2010%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport 10 DE
+http://comag.rip:8000/52008486655705/83000054541964/76216
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="DE: Eurosport 1 FHD" tvg-logo="http://178.33.72.149/logo/germany/eurosport%201%20fullhd.png" group-title="|EU| DEUTSHLAND",DE: Eurosport 1 FHD
+http://comag.rip:8000/52008486655705/83000054541964/79230
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://178.33.72.149/logo/germany/eurosport%202%20hd.png" group-title="|EU| DEUTSHLAND",DE: Eurosport 2 HD
+http://comag.rip:8000/52008486655705/83000054541964/79231
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="VIP:DE- EUROSPORT 1 HD" tvg-logo="http://178.33.72.149/logo/germany/eurosport%201%20hd.png" group-title="|EU| DEUTSHLAND",VIP:DE- EUROSPORT 1 HD
+http://comag.rip:8000/52008486655705/83000054541964/79195
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="DE:|VIP| Eurosport 1 HD DE" tvg-logo="http://178.33.72.149/logo/germany/eurosport%201%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Eurosport 1 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76179
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="DE:|VIP| Eurosport 2 HD DE" tvg-logo="http://178.33.72.149/logo/germany/eurosport%202%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Eurosport 2 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76177
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE: Eurosport 2 Xtra FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png" group-title="|EU| DEUTSHLAND",DE: Eurosport 2 Xtra FHD
+http://comag.rip:8000/52008486655705/83000054541964/79232
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE:|VIP| Eurosport 2 Xtra HD DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Eurosport 2 Xtra HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76178
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE: EUROSPORT 2 XTRA FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png" group-title="|EU| DEUTSHLAND",DE: EUROSPORT 2 XTRA FULL HD
+http://comag.rip:8000/52008486655705/83000054541964/79233
+#EXTINF:-1 tvg-id="FCBayernTV.de" tvg-name="DE: FC Bayern TV HD" tvg-logo="http://178.33.72.149/logo/germany/fc%20bayern%20tv%20hd.png" group-title="|EU| DEUTSHLAND",DE: FC Bayern TV HD
+http://comag.rip:8000/52008486655705/83000054541964/79234
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="DE:|VIP| Sky Sport Bundesliga 1 HD DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20bundesliga%201%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport Bundesliga 1 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76226
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="DE:|VIP| Sky Sport Bundesliga 2 HD DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20bundesliga%202%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport Bundesliga 2 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76205
+#EXTINF:-1 tvg-id="" tvg-name="DE:|VIP| Sky Sport Bundesliga 3 HD DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20bundesliga%203%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport Bundesliga 3 HD DE
+http://comag.rip:8000/52008486655705/83000054541964/76228
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="DE:|VIP| Sky Sport Bundesliga 4 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20bundesliga%204%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport Bundesliga 4 DE
+http://comag.rip:8000/52008486655705/83000054541964/76229
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="DE:|VIP| Sky Sport Bundesliga 5 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20bundesliga%205%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport Bundesliga 5 DE
+http://comag.rip:8000/52008486655705/83000054541964/76230
+#EXTINF:-1 tvg-id="" tvg-name="DE:|VIP| Sky Sport Bundesliga 6 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20bundesliga%206%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport Bundesliga 6 DE
+http://comag.rip:8000/52008486655705/83000054541964/76231
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="DE:|VIP| Sky Sport Bundesliga 7 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20bundesliga%207%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport Bundesliga 7 DE
+http://comag.rip:8000/52008486655705/83000054541964/76232
+#EXTINF:-1 tvg-id="NULL" tvg-name="DE:|VIP| Sky Sport Bundesliga 8 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20bundesliga%208%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport Bundesliga 8 DE
+http://comag.rip:8000/52008486655705/83000054541964/76233
+#EXTINF:-1 tvg-id="NULL" tvg-name="DE:|VIP| Sky Sport Bundesliga 9 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20bundesliga%209%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport Bundesliga 9 DE
+http://comag.rip:8000/52008486655705/83000054541964/76234
+#EXTINF:-1 tvg-id="NULL" tvg-name="DE:|VIP| Sky Sport Bundesliga 10 DE" tvg-logo="http://178.33.72.149/logo/germany/sky%20sport%20bundesliga%2010%20hd.png" group-title="|EU| DEUTSHLAND",DE:|VIP| Sky Sport Bundesliga 10 DE
+http://comag.rip:8000/52008486655705/83000054541964/76227
+#EXTINF:-1 tvg-id="DAZN1Bar.de" tvg-name="DE: Dazn Bar 1 HD" tvg-logo="http://www.topstb.info/logo/GERMANY/DAZN1BARFHD.png" group-title="|EU| DEUTSHLAND",DE: Dazn Bar 1 HD
+http://comag.rip:8000/52008486655705/83000054541964/79224
+#EXTINF:-1 tvg-id="DAZN2bar.de" tvg-name="DE: Dazn Bar 2 HD" tvg-logo="http://www.topstb.info/logo/GERMANY/DAZN2BARFHD.png" group-title="|EU| DEUTSHLAND",DE: Dazn Bar 2 HD
+http://comag.rip:8000/52008486655705/83000054541964/79225
+#EXTINF:-1 tvg-id="DAZN1Bar.de" tvg-name="DE:|VIP| DAZN 1 DE" tvg-logo="http://www.topstb.info/logo/GERMANY/DAZN1BARFHD.png" group-title="|EU| DEUTSHLAND",DE:|VIP| DAZN 1 DE
+http://comag.rip:8000/52008486655705/83000054541964/76169
+#EXTINF:-1 tvg-id="DAZN2bar.de" tvg-name="DE:|VIP| DAZN 2 DE" tvg-logo="http://www.topstb.info/logo/GERMANY/DAZN2BARFHD.png" group-title="|EU| DEUTSHLAND",DE:|VIP| DAZN 2 DE
+http://comag.rip:8000/52008486655705/83000054541964/76170
+#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="DE: Sky Select Live 1 HD" tvg-logo="http://178.33.72.149/logo/germany/sky%20select%201%20hd.png" group-title="|EU| DEUTSHLAND",DE: Sky Select Live 1 HD
+http://comag.rip:8000/52008486655705/83000054541964/79281
+#EXTINF:-1 tvg-id="SkySelect2.de" tvg-name="DE: Sky Select Live 2 HD" tvg-logo="http://178.33.72.149/logo/germany/sky%20select%202%20hd.png" group-title="|EU| DEUTSHLAND",DE: Sky Select Live 2 HD
+http://comag.rip:8000/52008486655705/83000054541964/79285
+#EXTINF:-1 tvg-id="SkySelect3.de" tvg-name="DE: Sky Select Live 3 HD" tvg-logo="http://178.33.72.149/logo/germany/sky%20select%203%20hd.png" group-title="|EU| DEUTSHLAND",DE: Sky Select Live 3 HD
+http://comag.rip:8000/52008486655705/83000054541964/79286
+#EXTINF:-1 tvg-id="SkySelect4.de" tvg-name="DE: Sky Select Live 4 HD" tvg-logo="http://178.33.72.149/logo/germany/sky%20select%204%20hd.png" group-title="|EU| DEUTSHLAND",DE: Sky Select Live 4 HD
+http://comag.rip:8000/52008486655705/83000054541964/79287
+#EXTINF:-1 tvg-id="SkySelect5.de" tvg-name="DE: Sky Select Live 5 HD" tvg-logo="http://178.33.72.149/logo/germany/sky%20select%205%20hd.png" group-title="|EU| DEUTSHLAND",DE: Sky Select Live 5 HD
+http://comag.rip:8000/52008486655705/83000054541964/79288
+#EXTINF:-1 tvg-id="SkySelect6.de" tvg-name="DE: Sky Select Live 6 HD" tvg-logo="http://178.33.72.149/logo/germany/sky%20select%206%20hd.png" group-title="|EU| DEUTSHLAND",DE: Sky Select Live 6 HD
+http://comag.rip:8000/52008486655705/83000054541964/79289
