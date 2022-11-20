@@ -398,3 +398,12 @@ http://comag.rip:8000/52008486655705/83000054541964/79287
 http://comag.rip:8000/52008486655705/83000054541964/79288
 #EXTINF:-1 tvg-id="SkySelect6.de" tvg-name="DE: Sky Select Live 6 HD" tvg-logo="http://178.33.72.149/logo/germany/sky%20select%206%20hd.png" group-title="|EU| DEUTSHLAND",DE: Sky Select Live 6 HD
 http://comag.rip:8000/52008486655705/83000054541964/79289
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|SUR| SURYOYO SAT" tvg-logo="https://noos.plus/logo/LA/suryoyo.png" group-title="|AM| LATINO VIP",|SUR| SURYOYO SAT
+http://comag.rip:8000/52008486655705/83000054541964/206038
+#EXTINF:-1 tvg-id="" tvg-name="|SUR| SURYOYO TV" tvg-logo="https://noos.plus/logo/LA/suryoyotv.png" group-title="|AM| LATINO VIP",|SUR| SURYOYO TV
+http://comag.rip:8000/52008486655705/83000054541964/206036
+
+
+
