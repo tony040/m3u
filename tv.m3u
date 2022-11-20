@@ -400,10 +400,12 @@ http://comag.rip:8000/52008486655705/83000054541964/79288
 http://comag.rip:8000/52008486655705/83000054541964/79289
 
 
-#EXTINF:-1 tvg-id="" tvg-name="|SUR| SURYOYO SAT" tvg-logo="https://noos.plus/logo/LA/suryoyo.png" group-title="|AM| LATINO VIP",|SUR| SURYOYO SAT
+#EXTINF:-1 tvg-id="" tvg-name="SURYOYO SAT" tvg-logo="https://noos.plus/logo/LA/suryoyo.png" group-title="SURYOYO",|SUR| SURYOYO SAT
 http://comag.rip:8000/52008486655705/83000054541964/206038
-#EXTINF:-1 tvg-id="" tvg-name="|SUR| SURYOYO TV" tvg-logo="https://noos.plus/logo/LA/suryoyotv.png" group-title="|AM| LATINO VIP",|SUR| SURYOYO TV
+#EXTINF:-1 tvg-id="" tvg-name="SURYOYO TV" tvg-logo="https://noos.plus/logo/LA/suryoyotv.png" group-title="SURYOYO",|SUR| SURYOYO TV
 http://comag.rip:8000/52008486655705/83000054541964/206036
 
-
+#EXTINF:-1 tvg-id="" tvg-name="CHRISTIAN: SUROYO TV" tvg-logo="http://primeevil.altervista.org/images/Senderlogos/Suroyo%20TV.jpg" group-title="SURYOYO",CHRISTIAN: SUROYO TV
+http://comag.rip:8000/52008486655705/83000054541964/27569
+#EXTINF:-1 tvg-id="" tvg-name="CHRISTIAN: SUROYOYO SAT TV" tvg-logo="https://i1.wp.com/suryoyosat.com/wp-content/uploads/2017/02/live.png?fit=398%2C398" group-title="SURYOYO",CHRISTIAN: SUROYOYO SAT TV
 
