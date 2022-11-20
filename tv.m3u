@@ -1,5 +1,3 @@
-#EXTINF:-1 tvg-id="TVLux.be" tvg-name="LX: TV LUX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/d0/TV_Lux_logo_2017.png" group-title="|EU| LUXEMBOURG",LX: TV LUX HD
-http://comag.rip:8000/52008486655705/83000054541964/89181
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="|DE| DAS ERSTE HEVC" tvg-logo="http://178.33.72.149/logo/germany/das%20erste%20hevc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| DAS ERSTE HEVC
 http://comag.rip:8000/52008486655705/83000054541964/145288
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="|DE| ZDF HEVC" tvg-logo="http://178.33.72.149/logo/germany/zdf%20hrvc.png" group-title="|EU| HEVC DEUTSHLAND",|DE| ZDF HEVC
